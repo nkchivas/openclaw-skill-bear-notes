@@ -1,0 +1,14 @@
+{
+  "name": "bear-notes",
+  "version": "1.0.0",
+  "description": "Create, search, and manage Bear notes via grizzly CLI.",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "created": "2026-02-23T11:46:00.697013",
+  "type": "system-skill",
+  "files": [
+    "SKILL.md"
+  ],
+  "file_count": 1,
+  "source": "OpenClaw Official"
+}
